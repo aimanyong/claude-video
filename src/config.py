@@ -10,7 +10,7 @@ SRC_DUR = 163.65     # length of the original recording
 FPS = 30
 W, H = 1920, 1080
 
-PRESENTER = "Aiman bin Ali Azizan"
+PRESENTER = "Muhammad Aiman Bin Ali Azizan"
 PRESENTER_ROLE = "LEASING TEAM  ·  PNB MERDEKA VENTURES"
 
 TITLE_KICKER = "EXECUTIVE BRIEFING"
