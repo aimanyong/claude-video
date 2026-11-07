@@ -4,7 +4,7 @@ A three-minute sales pitch recorded for the PNB Merdeka Ventures assessment
 (Associate, Leasing & Marketing, Office Leasing), re-edited as an executive
 briefing to a Board of Directors.
 
-**Output:** `output/executive_briefing_720p.mp4` (1280×720, 30 fps, H.264/AAC, 2:51). The 1080p master is over GitHub's 100 MB file limit, so it is not committed; re-run the render to recreate it.
+**Output:** `output/executive_briefing_1080p.mp4` (1920×1080, 75 MB) and `output/executive_briefing_720p.mp4` (1280×720, 39 MB). Both are 30 fps H.264/AAC, 2:51.
 
 ## What was done
 
